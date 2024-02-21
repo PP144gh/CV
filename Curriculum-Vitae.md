@@ -55,7 +55,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Machine Learning/AI
 
-- Fitting a model to experimental data via Loss function minimization.
+- Fitting a model to experimental data via Loss function minimization, see [this repository](https://github.com/PP144gh/physics_code/tree/master/vlq_parameter_space_generator).
 - Basic Understanding of Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
 
 ### Programming Languages
