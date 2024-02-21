@@ -19,7 +19,7 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 - Responsible for teaching classes on problem sets within the "Physics of Continuous Media" course. I won the award for the best teaching assistant of the 3rd year of the bachelor's in Physics, awarded by the students.
 
 ### 2019-2020
-**Private Tutor of High School Mathematics and Physics** - Lisboa
+**Private Tutor of High School Mathematics and Physics** - Lisbon
 
 ### 2017-2018
 **Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
