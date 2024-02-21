@@ -5,6 +5,7 @@
 I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting.
 
 [My GitHub](https://github.com/PP144gh)
+
 [My Physics Publications](https://inspirehep.net/authors/1638935?ui-citation-summary=true)
 ## Work Experience
 
