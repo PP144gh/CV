@@ -60,22 +60,22 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Programming Languages
 
-- C, C#, C++, Python, Haskell, Java, Javascript, Typescript
+- C, C#, C++, Python, Haskell, Java, Javascript, Typescript.
 
 ### Blockchain
 
-- Cardano/Plutus, Ethereum/Solidity, Polygon and EVM networks, Hardhat, Ethers, Truffle + Ganache, Foundry, KILT, Hyperledger Besu, Hyperledger Fabric, Quorum
+- Cardano/Plutus, Ethereum/Solidity, Polygon and EVM networks, Hardhat, Ethers, Truffle + Ganache, Foundry, KILT, Hyperledger Besu, Hyperledger Fabric, Quorum.
 
 ### Web Development
 
-- Node.js, Express.js, React, CSS, HTML
+- Node.js, Express.js, React, CSS, HTML.
 
 ### Software Miscellaneous
 
-- Git, Jira, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor
+- Git, Jira, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor.
 
 ### Languages
 
-- Portuguese (Native), English (Fluent), Spanish (Intermediate), Italian (Beginner), French (Beginner)
+- Portuguese (Native), English (Fluent), Spanish (Intermediate), Italian (Beginner), French (Beginner).
 
 
