@@ -42,11 +42,12 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 
 A selection of the most relevant, see full list at [my Linkedin](https://www.linkedin.com/in/pedro-m-f-pereira-9aa02bb5/).
 
-- **2023:** Certified Quorum Developer - [Blockchain Council](https://www.credential.net/cad2e931-6604-43bb-9014-70bf7ff65963#gs.0q57qn)
-- **2023:** Full Web3 Website Course - [Learn Web3 with EdRoh](https://www.youtube.com/watch?v=ynFNLBP2TPs)
-- **2023:** Ethereum and Solidity Course - [CryptoZombies](https://cryptozombies.io/)
-- **2022-2023:** Cardano Developer Course - [Gimbalabs](https://gimbalabs.com/gimbalgrid)
-- **2022-2023:** IOG Haskell Course - [IOG](https://iog.io/)
+- **2023:** Certified Quorum Developer - [Blockchain Council](https://www.credential.net/cad2e931-6604-43bb-9014-70bf7ff65963#gs.0q57qn) - [my notes](https://github.com/PP144gh/quorum-besu_tests).
+- **2023:** Ethereum and Solidity: The Complete Developer's Guide - [Udemy]([https://www.credential.net/cad2e931-6604-43bb-9014-70bf7ff65963#gs.0q57qn](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/?couponCode=24T4FS22124)) - [my notes](https://github.com/PP144gh/ethereum_engineer).
+- **2023:** Full Web3 Website Course - [Learn Web3 with EdRoh](https://www.youtube.com/watch?v=ynFNLBP2TPs) - [my notes](https://github.com/PP144gh/Web3_Website).
+- **2023:** Ethereum and Solidity Course - [CryptoZombies](https://cryptozombies.io/) - [my notes](https://github.com/PP144gh/solidity_tutorial).
+- **2022-2023:** Cardano Developer Course - [Gimbalabs](https://gimbalabs.com/gimbalgrid) - [my notes](https://github.com/PP144gh/Cardano_offchain_code).
+- **2022-2023:** IOG Haskell Course & Haskell on Exercism - [IOG](https://iog.io/) - [my notes](https://github.com/PP144gh/haskell_exercism).
 
 ## Skills
 
