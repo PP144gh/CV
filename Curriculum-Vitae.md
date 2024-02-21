@@ -40,6 +40,8 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 
 ## Courses & Certifications
 
+A selection of the most relevant, see full list at [my Linkedin](https://www.linkedin.com/in/pedro-m-f-pereira-9aa02bb5/).
+
 - **2023:** Certified Quorum Developer - [Blockchain Council](https://www.credential.net/cad2e931-6604-43bb-9014-70bf7ff65963#gs.0q57qn)
 - **2023:** Full Web3 Website Course - [Learn Web3 with EdRoh](https://www.youtube.com/watch?v=ynFNLBP2TPs)
 - **2023:** Ethereum and Solidity Course - [CryptoZombies](https://cryptozombies.io/)
