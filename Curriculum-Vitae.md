@@ -21,7 +21,7 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 
 ### 2017-2018
 **Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisboa**
-- Taught app and game development to students aged 7-16.
+- Taught app and game development to students aged 7-16. Used Unity, C# and Java.
 
 ## Academic Education
 
