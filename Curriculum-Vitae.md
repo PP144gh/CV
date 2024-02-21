@@ -1,4 +1,4 @@
-# Pedro Manuel Ferreira Pereira -- Curriculum Vitae
+# Pedro Manuel Ferreira Pereira, PhD -- Curriculum Vitae
 
 ## Personal Profile
 
