@@ -15,14 +15,14 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 - Gained expertise in Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), Hyperledger Besu, KILT, Solidity, Ethereum and EVM networks, React, Node.js, Ethers.js, Hardhat, Metamask, Truffle, and Foundry.
 
 ### 2021-2023
-**Teaching Assistant of Physics of Continuous Media at Instituto Superior Técnico, Lisboa**
+**Teaching Assistant of Physics of Continuous Media at [Instituto Superior Técnico](https://www.tecnico.ulisboa.pt), Lisbon**
 - Responsible for teaching classes on problem sets within the "Physics of Continuous Media" course. I won the award for the best teaching assistant of the 3rd year of the bachelor's in Physics, awarded by the students.
 
 ### 2019-2020
 **Private Tutor of High School Mathematics and Physics** - Lisboa
 
 ### 2017-2018
-**Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisboa**
+**Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
 - Taught app and game development to students aged 7-16. Used Unity, C# and Java.
 
 ## Academic Education
