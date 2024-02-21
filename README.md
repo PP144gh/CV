@@ -69,7 +69,8 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Web Development
 
-- Node.js, Express.js, React, CSS, HTML.
+- Backend: Node.js, Express.js.
+- Frontend: React, CSS, HTML.
 
 ### Software Miscellaneous
 
