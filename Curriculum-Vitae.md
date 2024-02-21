@@ -4,8 +4,7 @@
 
 I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting.
 
-[Code samples from my Physics career](https://github.com/PP144gh/physics_code)
-
+[My GitHub](https://github.com/PP144gh)
 ## Work Experience
 
 ### 2023-
@@ -32,6 +31,7 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 
 ### 2016-2018
 **Master Degree in Theoretical Particle and Nuclear Physics** - [Instituto Superior Técnico, Lisboa](http://www.tecnico.ulisboa.pt)
+- Exchange Semester at [University of Amsterdam](https://www.uva.nl/en)
 
 ### 2013-2016
 **Undergraduate Degree in Physics Engineering** - [Instituto Superior Técnico, Lisboa](http://www.tecnico.ulisboa.pt)
@@ -71,4 +71,4 @@ I am an art, cinema, literature, and music enthusiast who studied Physics for 10
 
 - Portuguese (Native), English (Fluent), Spanish (Intermediate), Italian (Beginner), French (Beginner)
 
-[GitHub](https://github.com/PP144gh)
+
