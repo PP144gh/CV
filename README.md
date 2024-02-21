@@ -1,7 +1,7 @@
 # Pedro Manuel Ferreira Pereira, PhD -- Curriculum Vitae
 
 ## Personal Profile
-### Age: 29 Nationality: Portuguese
+### Age: 29; Nationality: Portuguese
 
 I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development, a recent passion of mine. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting. 
 
