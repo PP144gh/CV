@@ -56,7 +56,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 ### Machine Learning/AI
 
 - Fitting a model to experimental data via Loss function minimization.
-- Basic Understanding of Reinforcement Learning.
+- Basic Understanding of Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
 
 ### Programming Languages
 
