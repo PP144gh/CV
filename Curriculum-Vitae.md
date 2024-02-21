@@ -2,7 +2,7 @@
 
 ## Personal Profile
 
-I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting.
+I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development, a recent passion of mine. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting. In addition to possessing extensive experience and a natural ease in presenting and discussing my work in front of peers, a skill honed through numerous occasions during my PhD, I also had several teaching experiences, where I received positive feedback on my ability to explain complex problems and concepts in a simple manner.
 
 [My GitHub](https://github.com/PP144gh)
 
