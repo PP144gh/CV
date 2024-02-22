@@ -74,7 +74,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Software Miscellaneous
 
-- Git, Jira, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor.
+- Git, Jira, Postman API, REST APIs, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor.
 
 ### Languages
 
