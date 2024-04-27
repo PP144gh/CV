@@ -28,7 +28,7 @@ Throughout these projects, I collaborated in a team environment adhering to an a
 **Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
 - Taught app and game development to students aged 7-16. Used Unity, C# and Java.
   
-**Private Tutor of High School Mathematics and Physics** - Lisbon
+**Private Tutor of High School Mathematics and Physics, Lisbon**
 
 
 ## Academic Education
