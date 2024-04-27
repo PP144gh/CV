@@ -1,19 +1,9 @@
-Convert .md to .pdf
-
-Via the terminal (tested in 2020)
-
-Download dependencies
+Download dependencies:
 
 sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
 
-Try to use
+sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
-pandoc MANUAL.txt -o example13.pdf
-pandoc MANUAL.md -o example13.pdf
+Run on terminal:
 
-Via a Visual Studio Code extension (tested in 2020)
-
-Download the Yzane Markdown PDF extension
-Right click inside a Markdown file (md)
-The content below will appear
-Select the Markdown PDF: Export (pdf) option
+python script.py README.md README.tex && pdflatex README.tex && mv README.pdf CV.pdf
