@@ -74,7 +74,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Web Development
 
-- Backend: Node.js, Express.js.
+- Backend: Node.js, Express.js, Azure Functions.
 - Frontend: React, CSS, HTML.
 
 ### Software Miscellaneous
