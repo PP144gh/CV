@@ -18,7 +18,7 @@ My career transition is driven by an eager commitment to immerse myself further 
 **Blockchain Developer at [Celfocus](https://www.celfocus.com/)** - Hybrid, Lisbon
 - Gained expertise in Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) while working on **Identity and Credential Management**. This project involved utilizing technologies such as Hyperledger Besu, Quorum, KILT, React, Node.js, and Express.js.
 - Developed smart contracts in Solidity for an **NFT-based Carbon Credit Marketplace**, enhancing my experience with Ethereum, Polygon, and EVM networks. This role also involved using Hardhat, Metamask, Truffle, and Foundry, as well as developing serverless REST APIs using Node.js, TypeScript, and Azure Functions.
-- Contributed to a **Token-based Loyalty System Project** within a Hyperledger Fabric framework, where I wrote smart contracts (chaincodes) in Golang and developed a Fabric application in Java to enable communication between the chaincode and the backend.
+- Contributed to a **Token-based Loyalty System Project** within a Hyperledger Fabric framework, where I wrote smart contracts (chaincodes) in Golang and developed Fabric applications in Java to enable communication between the chaincodes and the backend.
 
 Throughout these projects, I collaborated in a team environment adhering to an agile framework, employing tools such as GIT, Jira, and Jenkins for version control, task management, and CI/CD processes.
 
