@@ -3,7 +3,9 @@
 ## Personal Profile
 ### Age: 29; Nationality: Portuguese
 
-I am a art, cinema, literature, and music enthusiast that has dedicated a decade to studying Physics before shifting my career focus towards Blockchain, Smart Contracts, and Software Development. This recent passion has not only invigorated my professional pursuits but also positioned me to leverage my extensive background in Physics. My experience in this field has endowed me with a robust set of skills that are invaluable in software architecture and development, including analytical and critical thinking, as well as proficiency in programming languages such as C, C++, and Python, complemented by a strong knowledge of Linux and scripting.
+I am a art, cinema, literature, and music enthusiast that has dedicated a decade to studying Physics before shifting my career focus towards Blockchain, Smart Contracts, and Software Development.
+
+This recent passion has not only invigorated my professional pursuits but also positioned me to leverage my extensive background in Physics. My experience in this field has endowed me with a robust set of skills that are invaluable in software architecture and development, including analytical and critical thinking, as well as proficiency in programming languages such as C, C++, and Python, complemented by a strong knowledge of Linux and scripting.
 
 My career transition is driven by an eager commitment to immerse myself further into the blockchain ecosystem, seeking to innovate and expand my expertise in this dynamic field. Having extensively presented my work and discussed complex topics during my PhD, I excel in communicating intricate concepts in an accessible manner—an ability further refined through several positive teaching experiences. I am enthusiastic about continuing to learn and evolve within the software and blockchain landscapes, aiming to contribute significantly to their advancement.
 
