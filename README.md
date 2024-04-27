@@ -3,9 +3,9 @@
 ## Personal Profile
 ### Age: 29; Nationality: Portuguese
 
-I am an art, cinema, literature, and music enthusiast who studied Physics for 10 years and then transitioned his career towards Blockchain, Smart Contracts, and Software Development, a recent passion of mine. My career in Physics equipped me with a diverse set of skills beneficial for a software developer/architect, including analytical and critical thinking, proficiency in programming languages such as C, C++, Python, and knowledge of Linux and scripting. 
+As an enthusiastic connoisseur of art, cinema, literature, and music, I have dedicated a decade to studying Physics before shifting my career focus towards Blockchain, Smart Contracts, and Software Development. This recent passion has not only invigorated my professional pursuits but also positioned me to leverage my extensive background in Physics. My experience in this field has endowed me with a robust set of skills that are invaluable in software architecture and development, including analytical and critical thinking, as well as proficiency in programming languages such as C, C++, and Python, complemented by a strong knowledge of Linux and scripting.
 
-In addition to possessing extensive experience and a natural ease in presenting and discussing my work in front of peers, a skill honed through numerous occasions during my PhD, I also had several teaching experiences, where I received positive feedback on my ability to explain complex problems and concepts in a simple manner.
+My career transition is driven by an eager commitment to immerse myself further into the blockchain ecosystem, seeking to innovate and expand my expertise in this dynamic field. Having extensively presented my work and discussed complex topics during my PhD, I excel in communicating intricate concepts in an accessible manner—an ability further refined through several positive teaching experiences. I am enthusiastic about continuing to learn and evolve within the software and blockchain landscapes, aiming to contribute significantly to their advancement.
 
 [My GitHub](https://github.com/PP144gh)
 
@@ -14,19 +14,21 @@ In addition to possessing extensive experience and a natural ease in presenting 
 
 ### 2023-
 **Blockchain Developer at [Celfocus](https://www.celfocus.com/)** - Hybrid, Lisbon
-- Worked on Identity and Credential Management, Carbon Footprint Marketplace, and Loyalty Systems projects.
-- Gained expertise in Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), Hyperledger Besu, KILT, Solidity, Ethereum and EVM networks, React, Node.js, Ethers.js, Hardhat, Metamask, Truffle, and Foundry.
+- Gained expertise in Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) while working on **Identity and Credential Management**. This project involved utilizing technologies such as Hyperledger Besu, Quorum, KILT, React, Node.js, and Express.js.
+- Developed smart contracts in Solidity for an **NFT-based Carbon Credit Marketplace**, enhancing my experience with Ethereum, Polygon, and EVM networks. This role also involved using Hardhat, Metamask, Truffle, and Foundry, as well as developing serverless REST APIs using Node.js, TypeScript, and Azure Functions.
+- Contributed to a **Token-based Loyalty System Project** within a Hyperledger Fabric framework, where I wrote smart contracts (chaincodes) in Golang and developed a Fabric application in Java to enable communication between the chaincode and the backend.
+
+Throughout these projects, I collaborated in a team environment adhering to an agile framework, employing tools such as GIT, Jira, and Jenkins for version control, task management, and CI/CD processes.
 
 ### 2021-2023
 **Teaching Assistant of [Physics of Continuous Media](https://fenix.tecnico.ulisboa.pt/disciplinas/FMCon/2022-2023/2-semestre) at [Instituto Superior Técnico](https://www.tecnico.ulisboa.pt), Lisbon**
 - Responsible for teaching classes on problem sets within the "Physics of Continuous Media" course. I won the award for the best teaching assistant of the 3rd year of the bachelor's in Physics, awarded by the students.
-
-### 2019-2020
-**Private Tutor of High School Mathematics and Physics** - Lisbon
-
-### 2017-2018
+- 
+### 2017-2020
 **Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
 - Taught app and game development to students aged 7-16. Used Unity, C# and Java.
+**Private Tutor of High School Mathematics and Physics** - Lisbon
+
 
 ## Academic Education
 
