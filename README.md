@@ -66,7 +66,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Programming Languages
 
-- C, C#, C++, Python, Haskell, Java, Javascript, Typescript.
+- C, C#, C++, Python, Haskell, Java, Javascript, Typescript, GOlang.
 
 ### Blockchain
 
