@@ -23,7 +23,7 @@ Throughout these projects, I collaborated in a team environment adhering to an a
 ### 2021-2023
 **Teaching Assistant of [Physics of Continuous Media](https://fenix.tecnico.ulisboa.pt/disciplinas/FMCon/2022-2023/2-semestre) at [Instituto Superior Técnico](https://www.tecnico.ulisboa.pt), Lisbon**
 - Responsible for teaching classes on problem sets within the "Physics of Continuous Media" course. I won the award for the best teaching assistant of the 3rd year of the bachelor's in Physics, awarded by the students.
-- 
+
 ### 2017-2020
 **Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
 - Taught app and game development to students aged 7-16. Used Unity, C# and Java.
