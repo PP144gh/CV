@@ -2,7 +2,7 @@
 
 ## Personal Profile
 ### Age: 29; Nationality: Portuguese; [My GitHub](https://github.com/PP144gh)
-
+### Contacts: pp144@proton.me; [My Linkedin](https://www.linkedin.com/in/pedro-m-f-pereira-9aa02bb5/)
 
 I am a art, cinema, literature, and music enthusiast that has dedicated a decade to studying Physics before shifting my career focus towards Blockchain, Smart Contracts, and Software Development.
 
