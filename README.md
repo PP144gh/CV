@@ -17,7 +17,8 @@ My career transition is driven by an eager commitment to immerse myself further 
 
 - Gained expertise in Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) while working on **Identity and Credential Management**. This project involved utilizing technologies such as Hyperledger Besu, Quorum, KILT, React, Node.js, and Express.js.
   
-- Developed smart contracts in Solidity for an **NFT-based Carbon Credit Marketplace**, enhancing my experience with Ethereum, Polygon, and EVM networks. This role also involved using Hardhat, Metamask, Truffle, and Foundry, as well as developing serverless REST APIs using Node.js, TypeScript, and Azure Functions.
+- Developed smart contracts in Solidity for an **NFT-based Carbon Credit Marketplace**, enhancing my experience with Ethereum, Polygon, and EVM networks. This role also involved using Hardhat, Metamask, Truffle, and Foundry, as well as developing serverless REST APIs using Node.js, TypeScript, and Azure Functions. 
+The Solidity contracts were designed to be pausable and included access control with three distinct roles. Interactions among the four contracts were managed through interfaces and trigger functions. Each contract utilized a library containing stateless definitions and pure logic functions. Additionally, the contracts featured numerous mappings and handled various events. 
   
 - Contributed to a **Token-based Loyalty System Project** within a Hyperledger Fabric framework, where I wrote smart contracts (chaincodes) in Golang and developed Fabric applications in Java to enable communication between the chaincodes and the backend.
 
