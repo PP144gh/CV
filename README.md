@@ -4,13 +4,18 @@
 ### Age: 29; Nationality: Portuguese; [My GitHub](https://github.com/PP144gh)
 ### Contacts: pp144@proton.me; [My Linkedin](https://www.linkedin.com/in/pedro-m-f-pereira-9aa02bb5/)
 
-I am a art, cinema, literature, and music enthusiast that has dedicated a decade to studying Physics before shifting my career focus towards Blockchain, Smart Contracts, and Software Development.
+I am an aspiring polymath with a formal education in Science and Technology and an informal one in everything else.
 
-This recent passion has not only invigorated my professional pursuits but also positioned me to leverage my extensive background in Physics. My experience in this field has endowed me with a robust set of skills that are invaluable in software architecture and development, including analytical and critical thinking, as well as proficiency in programming languages such as C, C++, and Python, complemented by a strong knowledge of Linux and scripting.
+Currently, my primary interest lies in blockchain technology, particularly its applications in digital identity (DIDs, VCs), privacy (user-centric data ownership, zero-knowledge proofs, homomorphic encryption), and governance (DAOs, voting systems).
 
-My career transition is driven by an eager commitment to immerse myself further into the blockchain ecosystem, seeking to innovate and expand my expertise in this dynamic field. Having extensively presented my work and discussed complex topics during my PhD, I excel in communicating intricate concepts in an accessible manner—an ability further refined through several positive teaching experiences. I am enthusiastic about continuing to learn and evolve within the software and blockchain landscapes, aiming to contribute significantly to their advancement.
+I am committed to contributing to the modernization of financial and governmental infrastructures, with the goal of empowering individuals to reclaim control and ownership from large corporations and governments.
+
+During my PhD, I frequently presented my work and engaged in discussions on complex topics, honing my ability to communicate intricate concepts in a clear and accessible way. This skill, further developed through positive teaching experiences, drives my passion for outreach and improving public literacy on blockchain.
 
 ## Work Experience
+
+### 2024-
+**Blockchain Engineer at [Parfin](https://www.parfin.io/)** - Remote, Lisbon
 
 ### 2023-
 **Blockchain Developer at [Celfocus](https://www.celfocus.com/)** - Hybrid, Lisbon
@@ -22,6 +27,8 @@ The Solidity contracts were designed to be pausable and included access control 
   
 - Contributed to a **Token-based Loyalty System Project** within a Hyperledger Fabric framework, where I wrote smart contracts (chaincodes) in Golang and developed Fabric applications in Java to enable communication between the chaincodes and the backend.
 
+- Built an extensive set of reusable libraries, APIs, configuration files, and deployment strategies utilizing Node.js, TypeScript, and Vercel Turborepo. These tools are designed to effortlessly integrate EVM-based chains and Hyperledger Fabric in future blockchain-based solutions.
+  
 Throughout these projects, I collaborated in a team environment adhering to an agile framework, employing tools such as GIT, Jira, and Jenkins for version control, task management, and CI/CD processes.
 
 ### 2021-2023
@@ -70,11 +77,11 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 ### Machine Learning/AI
 
 - Fitting a model to experimental data via Loss function minimization, see [this repository](https://github.com/PP144gh/physics_code/tree/master/vlq_parameter_space_generator).
-- Basic Understanding of Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
+- Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
 
 ### Programming Languages
 
-- C, C#, C++, Python, Haskell, Java, Javascript, Typescript, GOlang.
+- C, C#, C++, Python, Haskell, Java, Javascript, Typescript, GOlang, Rust.
 
 ### Blockchain
 
