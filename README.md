@@ -8,7 +8,7 @@ I am an aspiring polymath with a formal education in Science and Technology and 
 
 Currently, my primary interest lies in blockchain technology, particularly its applications in digital identity (DIDs, VCs), privacy (user-centric data ownership, zero-knowledge proofs, homomorphic encryption), and governance (DAOs, voting systems).
 
-I am committed to contributing to the modernization of financial and governmental infrastructures, with the goal of empowering individuals to reclaim control and ownership from large corporations and governments.
+I am committed to contributing to the modernisation of financial and governmental infrastructures, with the goal of empowering individuals to reclaim control and ownership from large corporations and governments.
 
 During my PhD, I frequently presented my work and engaged in discussions on complex topics, honing my ability to communicate intricate concepts in a clear and accessible way. This skill, further developed through positive teaching experiences, drives my passion for outreach and improving public literacy on blockchain.
 
