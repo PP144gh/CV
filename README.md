@@ -17,7 +17,7 @@ During my PhD, I frequently presented my work and engaged in discussions on comp
 ### 2024-
 **Blockchain Engineer at [Parfin](https://www.parfin.io/)** - Remote, Lisbon
 
-### 2023-
+### 2023-2024
 **Blockchain Developer at [Celfocus](https://www.celfocus.com/)** - Hybrid, Lisbon
 
 - Gained expertise in Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) while working on **Identity and Credential Management**. This project involved utilizing technologies such as Hyperledger Besu, Quorum, KILT, React, Node.js, and Express.js.
