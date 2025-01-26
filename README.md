@@ -1,7 +1,7 @@
 # Pedro M. F. Pereira, PhD -- Curriculum Vitae
 
 ## Personal Profile
-### Age: 29; Nationality: Portuguese; [My GitHub](https://github.com/PP144gh)
+### Age: 30; Nationality: Portuguese; [My GitHub](https://github.com/PP144gh)
 ### Contacts: pp144@proton.me; [My Linkedin](https://www.linkedin.com/in/pedro-m-f-pereira-9aa02bb5/)
 
 I am an aspiring polymath with a formal education in Science and Technology and an informal one in everything else.
@@ -16,6 +16,16 @@ During my PhD, I frequently presented my work and engaged in discussions on comp
 
 ### 2024-
 **Blockchain Engineer at [Parfin](https://www.parfin.io/)** - Remote, Lisbon
+
+- Played a key role in developing products leveraging **zero-knowledge proofs**, privacy, and cryptography within a blockchain framework.
+
+- Contributed to the development of a **zero-knowledge privacy token project**, utilizing Circom, Fully Homomorphic Encryption (FHE), elliptic curve cryptography (specifically the Baby Jubjub curve), Pedersen commitments, Solidity, and Go. Oversaw the entire product lifecycle, from the proof-of-concept stage to final delivery to clients.
+
+- Designed and implemented a **zero-knowledge Delivery versus Payment (DVP)** framework leveraging privacy tokens.
+
+- Authored detailed technical documentation for developers, translating complex cryptographic research papers into practical, actionable guidelines.
+
+- Served as a **critical link between the Engineering and Research teams**, fostering strong collaboration and ensuring smooth communication throughout the development process.
 
 ### 2023-2024
 **Blockchain Developer at [Celfocus](https://www.celfocus.com/)** - Hybrid, Lisbon
@@ -74,11 +84,12 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ## Skills
 
-### Machine Learning/AI
+### Machine Learning and Artificial Intelligence
 
 - Fitting a model to experimental data via Loss function minimization, see [this repository](https://github.com/PP144gh/physics_code/tree/master/vlq_parameter_space_generator).
 - Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
-
+- Proficient in utilizing LLM models like ChatGPT, DeepSeek, and GitHub Copilot as AI assistants to enhance code development. Skilled in crafting strategic prompts to maximize their effectiveness.
+  
 ### Programming Languages
 
 - C, C#, C++, Python, Haskell, Java, Javascript, Typescript, GOlang, Rust.
@@ -86,6 +97,10 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 ### Blockchain
 
 - Cardano/Plutus, Ethereum/Solidity, Polygon and EVM networks, Hardhat, Ethers, Truffle + Ganache, Foundry, KILT, Hyperledger Besu, Hyperledger Fabric, Quorum.
+
+### Zero-Knowledge Proofs, Cryptography and Privacy
+
+- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve
 
 ### Web Development
 
