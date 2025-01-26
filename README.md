@@ -19,9 +19,9 @@ During my PhD, I frequently presented my work and engaged in discussions on comp
 
 - Played a key role in developing products leveraging **zero-knowledge proofs**, privacy, and cryptography within a blockchain framework.
 
-- Contributed to the development of a **zero-knowledge privacy token project**, utilizing Circom, Fully Homomorphic Encryption (FHE), elliptic curve cryptography (specifically the Baby Jubjub curve), Pedersen commitments, Solidity, and Go. Oversaw the entire product lifecycle, from the proof-of-concept stage to final delivery to clients.
+- Contributed to the development of a **zero-knowledge privacy token project**, utilizing Circom, Fully Homomorphic Encryption (FHE), elliptic curve cryptography (specifically the Baby Jubjub curve), Pedersen commitments, Solidity, and Go. Participated in the entire product lifecycle, from the proof-of-concept phase to the final delivery to clients.
 
-- Designed and implemented a **zero-knowledge Delivery versus Payment (DVP)** framework leveraging privacy tokens.
+- Helped designing and implementing a **zero-knowledge Delivery versus Payment (DVP)** framework leveraging privacy tokens.
 
 - Authored detailed technical documentation for developers, translating complex cryptographic research papers into practical, actionable guidelines.
 
@@ -100,7 +100,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Zero-Knowledge Proofs, Cryptography and Privacy
 
-- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve
+- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve.
 
 ### Web Development
 
@@ -114,5 +114,3 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 ### Languages
 
 - Portuguese (Native), English (Fluent), Spanish (Intermediate), Italian (Beginner), French (Beginner).
-
-
