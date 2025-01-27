@@ -92,24 +92,24 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
   
 ### Programming Languages
 
-- C, C#, C++, Python, Haskell, Java, Javascript, Typescript, GOlang, Rust.
+- C, C#, C++, Python (University, Intermediate), Haskell (Self-taught, Intermediate), Java, Javascript, Typescript, GOlang (Self-taught, Professional), Rust (Self-taught, Beginner).
 
 ### Blockchain
 
-- Cardano/Plutus, Ethereum/Solidity, Polygon and EVM networks, Hardhat, Ethers, Truffle + Ganache, Foundry, KILT, Hyperledger Besu, Hyperledger Fabric, Quorum.
+- Cardano/Plutus, Foundry and KILT (Self-taught, Beginner), Ethereum/Solidity, Polygon and EVM networks, Hardhat, Ethers, Truffle + Ganache,  Hyperledger Besu, Hyperledger Fabric, Quorum (Self-taught, Professional).
 
 ### Zero-Knowledge Proofs, Cryptography and Privacy
 
-- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve.
+- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve (Self-taught, Professional).
 
 ### Web Development
 
-- Backend: Node.js, Express.js, Azure Functions.
-- Frontend: React, CSS, HTML.
+- Backend: Node.js, Express.js, Azure Functions (Self-taught, Professional).
+- Frontend: React, CSS, HTML (Self-taught, Intermediate).
 
 ### Software Miscellaneous
 
-- Git, Jira, Postman API, REST APIs, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor.
+- Git, Jira, Postman API, REST APIs, Markdown, CERN's ROOT, Linux, Bash Scripting, Mathematica, LaTeX, Unity, MIT App Inventor (Self-taught, Professional).
 
 ### Languages
 
