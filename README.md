@@ -62,7 +62,7 @@ Throughout these projects, I collaborated in a team environment adhering to an a
 
 - **Rayls II: Fast, Private and Compliant CBDCs** - Mario Yaksetig, **Pedro Pereira**, Stephen Yang, Mahdi Nejadgholi and Jiayu Xu
 Published on Journal of Mathematical Cryptology, 2025
-Presented at [FCiR25 - Financial Cryptography in Rome 2025](www.decifris.it/fcir25/)
+Presented at [FCiR25 - Financial Cryptography in Rome 2025](https://www.decifris.it/fcir25/)
 
 
 ## Courses & Certifications
