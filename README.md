@@ -19,7 +19,7 @@ During my PhD, I frequently presented my work and engaged in discussions on comp
 
 - Played a key role in developing products leveraging **zero-knowledge proofs**, privacy, and cryptography within a blockchain framework.
 
-- Contributed to the development of a **zero-knowledge privacy token project**, utilizing Circom, Fully Homomorphic Encryption (FHE), elliptic curve cryptography (specifically the Baby Jubjub curve), Pedersen commitments, Solidity, and Go. Participated in the entire product lifecycle, from the proof-of-concept phase to the final delivery to clients.
+- Contributed to the development of a **zero-knowledge privacy token project**, utilizing Circom and Gnark, Fully Homomorphic Encryption (FHE), elliptic curve cryptography (specifically the Baby Jubjub curve), Pedersen commitments, Solidity, and Go. Participated in the entire product lifecycle, from the proof-of-concept phase to the final delivery to clients.
 
 - Helped designing and implementing a **zero-knowledge Delivery versus Payment (DVP)** framework leveraging privacy tokens.
 
@@ -41,17 +41,7 @@ The Solidity contracts were designed to be pausable and included access control 
   
 Throughout these projects, I collaborated in a team environment adhering to an agile framework, employing tools such as GIT, Jira, and Jenkins for version control, task management, and CI/CD processes.
 
-### 2021-2023
-**Teaching Assistant of [Physics of Continuous Media](https://fenix.tecnico.ulisboa.pt/disciplinas/FMCon/2022-2023/2-semestre) at [Instituto Superior Técnico](https://www.tecnico.ulisboa.pt), Lisbon**
 
-- Responsible for teaching classes on problem sets within the "Physics of Continuous Media" course. I won the award for the best teaching assistant of the 3rd year of the bachelor's in Physics, awarded by the students.
-
-### 2017-2020
-**Teacher of Programming and Technology at [Happy Code Lumiar](http://www.happycode.pt/), Lisbon**
-
-- Taught app and game development to students aged 7-16. Used Unity, C# and Java.
-  
-**Private Tutor of High School Mathematics and Physics, Lisbon**
 
 
 ## Academic Education
@@ -63,13 +53,17 @@ Throughout these projects, I collaborated in a team environment adhering to an a
 
 - [My Physics Publications](https://inspirehep.net/authors/1638935?ui-citation-summary=true) 
 
-### 2016-2018
-**Master Degree in Theoretical Particle and Nuclear Physics** - [Instituto Superior Técnico, Lisboa](http://www.tecnico.ulisboa.pt)
+### 2013-2018
+**Bachelor's in Physics and Master Degree in Theoretical Particle and Nuclear Physics** - [Instituto Superior Técnico, Lisboa](http://www.tecnico.ulisboa.pt)
 
 - Exchange Semester in Theoretical Particle Physics at [University of Amsterdam](https://www.uva.nl/en)
 
-### 2013-2016
-**Undergraduate Degree in Physics Engineering** - [Instituto Superior Técnico, Lisboa](http://www.tecnico.ulisboa.pt)
+## Academic Publications (Blockhain and Cryptography)
+
+- **Rayls II: Fast, Private and Compliant CBDCs** - Mario Yaksetig, **Pedro Pereira**, Stephen Yang, Mahdi Nejadgholi and Jiayu Xu
+Published on Journal of Mathematical Cryptology, 2025
+Presented at [FCiR25 - Financial Cryptography in Rome 2025](www.decifris.it/fcir25/)
+
 
 ## Courses & Certifications
 
@@ -88,7 +82,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 - Fitting a model to experimental data via Loss function minimization, see [this repository](https://github.com/PP144gh/physics_code/tree/master/vlq_parameter_space_generator).
 - Reinforcement Learning, see [this repository](https://github.com/PP144gh/physics_code/tree/master/reinforcement_learning).
-- Proficient in utilizing LLM models like ChatGPT, DeepSeek, and GitHub Copilot as AI assistants to enhance code development. Skilled in crafting strategic prompts to maximize their effectiveness.
+- Proficient in utilizing LLM models like ChatGPT, Claude and GitHub Copilot as AI assistants to enhance code development. Skilled in crafting strategic prompts to maximize their effectiveness.
   
 ### Programming Languages
 
@@ -100,7 +94,7 @@ A selection of the most relevant, see full list at [my Linkedin](https://www.lin
 
 ### Zero-Knowledge Proofs, Cryptography and Privacy
 
-- Circom, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve (Self-taught, Professional).
+- Circom, Gnark, Pedersen Commitments, Elliptic Curve Cryptography, Baby Jubjub Elliptic Curve (Self-taught, Professional).
 
 ### Web Development
 
